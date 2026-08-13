@@ -1,234 +1,228 @@
-# 👋 Hi, I'm Harshit Sharma
+<!-- Banner -->
 
-### 💻 Backend-Focused Software Developer | CSE @ VIT Chennai
-
-I'm a final-year **Computer Science and Engineering** student focused on **Backend Engineering and Software Development**, with hands-on experience building web applications using **Python, Flask, REST APIs, SQLAlchemy, and MySQL**.
-
-I'm continuously strengthening my **Data Structures, Algorithms, and Core Computer Science fundamentals** while building practical software projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=800&color=00AEEF&center=true&vCenter=true&width=800&lines=Hi+I'm+Harshit+Sharma;Backend-Focused+Software+Developer;CSE+Student+%7C+VIT+Chennai;Backend+Engineering+%7C+Software+Development" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 Final-year **B.Tech Computer Science & Engineering** student at **Vellore Institute of Technology, Chennai**
-* 📊 **CGPA: 9.08 / 10**
-* 💻 Focused on **Backend Engineering and Software Development**
-* 🔧 Experienced in building **web applications, REST APIs, and database-driven applications**
-* 🧠 Continuously strengthening **Data Structures, Algorithms, and Core Computer Science fundamentals**
-* ☁️ Completed a **Microsoft Azure Virtual Internship** covering cloud fundamentals and deployment concepts
-* 🚀 Built projects involving **backend development, machine learning, web applications, and database systems**
-* 📍 **Chennai, India**
-
+🎓 Final-year **B.Tech Computer Science & Engineering** student @ **VIT Chennai**
+💻 Focused on **Backend Engineering and Software Development**
+🔧 Experienced in building **web applications, REST APIs, and database-driven applications**
+🧠 Continuously strengthening **Data Structures, Algorithms, and Core Computer Science fundamentals**
+☁️ Completed a **Microsoft Azure Virtual Internship** covering cloud fundamentals and deployment concepts
+🚀 Built projects involving **backend development, machine learning, web applications, and database systems**
+📊 **CGPA: 9.08 / 10**
+📍 **Chennai, India**
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge\&logo=jinja\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+</p>
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ### Core Concepts
 
 `Data Structures & Algorithms` · `Object-Oriented Programming` · `Operating Systems` · `Computer Networks` · `Database Design`
 
-
 ---
 
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+### 📈 **StockVision**
 
-### 📈 StockVision
+*A full-stack stock market simulation and prediction platform.*
 
-A full-stack stock market analysis application built using **Flask, SQLAlchemy, and MySQL**.
-
-**Key Highlights:**
-
-* Designed RESTful routes for **portfolio management, transaction history, and watchlist management**.
-* Implemented **CRUD operations** using SQLAlchemy ORM.
-* Integrated the **Alpha Vantage API** to retrieve and display real-time stock market data.
-* Containerized the application using **Docker** for consistent local deployment.
+* Stock analysis, price prediction and virtual trading
+* User authentication and account management
+* Virtual portfolio management with buy/sell functionality
+* Transaction history and portfolio performance tracking
+* Yahoo Finance (`yfinance`) integration for market data
+* Machine-learning-based stock price prediction and visualization
 
 **Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+`Python` `Flask` `SQLAlchemy` `SQLite` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 🔗 [View Repository](https://github.com/harshit-s11/StockVision)
 
 ---
 
-### 🌿 Plant Species Classification using Transfer Learning
+### 🌿 **Plant Species Classification using Transfer Learning**
 
-A deep learning-based image classification system that identifies house plant species using **Transfer Learning with TensorFlow and Keras**.
+*A deep learning-based image classification system for identifying house plant species.*
 
-**Key Highlights:**
-
-* Performed image preprocessing and dataset preparation.
-* Created **Training, Validation, and Test** dataset splits.
-* Applied **data augmentation** to improve the training pipeline.
-* Used **Transfer Learning with a pretrained CNN**.
-* Performed model fine-tuning and evaluation.
-* Implemented prediction on unseen plant images.
-* Visualized training history and model evaluation results.
+* Image preprocessing and dataset preparation
+* Training, validation and test dataset splitting
+* Data augmentation
+* Transfer learning using a pretrained CNN
+* Model fine-tuning and evaluation
+* Prediction on unseen plant images
+* Training-history and evaluation visualization
 
 **Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+`Python` `TensorFlow` `Keras` `Scikit-learn` `Jupyter`
 
 🔗 [View Repository](https://github.com/harshit-s11/Plant-Species-Classification-Transfer-Learning)
 
-
-
 ---
 
-### 🏥 Healthcare Predictive Analytics
+### 🏥 **Healthcare Predictive Analytics**
 
-An AI-powered healthcare predictive analytics platform built with **Python, Streamlit, Machine Learning, and SHAP Explainable AI** for transparent patient risk prediction and interactive healthcare analytics.
+*An AI-powered healthcare predictive analytics platform for patient risk prediction and interactive healthcare analytics.*
 
-**Key Highlights:**
-
-* Built an interactive **healthcare analytics dashboard** using Streamlit.
-* Implemented **machine-learning-based patient risk prediction**.
-* Integrated **SHAP Explainable AI** for model interpretability and feature importance analysis.
-* Performed automatic healthcare dataset preprocessing and feature engineering.
-* Added interactive visualizations using **Plotly and Matplotlib**.
-* Developed patient-specific clinical insights based on model predictions.
+* Interactive healthcare analytics dashboard using Streamlit
+* Machine-learning-based patient risk prediction
+* SHAP-based model interpretability and feature importance analysis
+* Healthcare dataset preprocessing and feature engineering
+* Interactive visualizations using Plotly and Matplotlib
+* Patient-specific clinical insights based on model predictions
 
 **Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-6C63FF?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+`Python` `Streamlit` `Scikit-learn` `SHAP` `Pandas` `NumPy` `Plotly` `Matplotlib`
 
 🔗 [View Repository](https://github.com/harshit-s11/Explainable-AI-Healthcare-Project)
 
-
-
 ---
 
-### 💳 Credit Card Fraud Detection
+### 💳 **Credit Card Fraud Detection**
 
-A fraud detection model developed using **Python and Scikit-learn**.
+*A machine-learning-based fraud detection model developed using Python and Scikit-learn.*
 
-**Key Highlights:**
-
-* Performed feature preprocessing.
-* Handled **class imbalance** using suitable preprocessing techniques.
-* Evaluated model performance using **Precision, Recall, F1-score, and ROC-AUC**.
+* Feature preprocessing
+* Handling of class imbalance
+* Model evaluation using Precision, Recall, F1-score and ROC-AUC
 
 **Tech Stack:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+`Python` `Scikit-learn`
 
 🔗 [View Repository](https://github.com/harshit-s11/CNS-Fraud-Detection)
 
 ---
 
-### 🎮 GameVerse
+### 🎮 **GameVerse**
 
-A browser-based gaming platform built using **HTML, CSS, and JavaScript**.
+*A browser-based gaming platform built using HTML, CSS and JavaScript.*
 
-**Key Highlights:**
-
-* Designed responsive user interfaces.
-* Implemented interactive gameplay components.
-* Used client-side event handling.
-* Implemented dynamic score tracking.
+* Responsive user interface design
+* Interactive gameplay components
+* Client-side event handling
+* Dynamic score tracking
 
 **Tech Stack:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+`HTML` `CSS` `JavaScript`
 
 🔗 [View Repository](https://github.com/harshit-s11/GameVerse)
 
-
 ---
 
-## 💼 Experience
+# 💼 Experience
 
 ### Microsoft Azure Virtual Internship
 
 **Microsoft Elevate – AICTE**
-**January 2026 – February 2026**
+*January 2026 – February 2026*
 
-* Completed practical training covering Microsoft Azure cloud fundamentals and deployment concepts.
-* Worked with cloud services, virtual machines, and storage concepts through guided learning modules.
-* Built foundational understanding of cloud infrastructure and deployment workflows.
+* Completed practical training covering **Microsoft Azure cloud fundamentals and deployment concepts**.
+* Worked with **cloud services, virtual machines, and storage concepts** through guided learning modules.
+* Built foundational understanding of **cloud infrastructure and deployment workflows**.
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 ### Vellore Institute of Technology, Chennai
 
 **B.Tech — Computer Science and Engineering**
-**2023 – 2027**
+*2023 – 2027*
 
 **CGPA: 9.08 / 10**
 
 ---
 
-## 📜 Certifications
+# 📜 Certifications
 
-* **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-* **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
-* **Cloud Administration & Engineering Certification – Microsoft Elevate (AICTE)**
-
----
-
-## 🏆 Leadership & Achievements
-
-* **Student Coordinator** — Mharo Rajasthan Club (MRC), VIT Chennai
-* **Bronze Medalist** — Dodgeball Championship, Vibrance 2025
-
+📜 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+📜 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+📜 **Cloud Administration & Engineering Certification – Microsoft Elevate (AICTE)**
 
 ---
 
-## 🤝 Connect With Me
+# 🏆 Leadership & Achievements
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit-s11)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-sharma)
+🏅 **Student Coordinator** — Mharo Rajasthan Club (MRC), VIT Chennai
+🥉 **Bronze Medalist** — Dodgeball Championship, Vibrance 2025
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📈 GitHub Stats
 
-Feel free to explore my repositories and projects.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit-s11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-s11&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-s11&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshit-sharma">
+    <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" height="48" alt="LinkedIn"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/harshit-s11">
+    <img src="https://img.icons8.com/?size=100&id=80462&format=png&color=000000" height="48" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Thanks for visiting — feel free to explore my repositories!</b>
+</p>
