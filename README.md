@@ -24,44 +24,44 @@
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white" />
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge\&logo=jinja\&logoColor=white" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black" />
 </p>
 
 ### Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white" />
 </p>
 
 ### Core Concepts
@@ -76,12 +76,12 @@
 
 *A full-stack stock market simulation and prediction platform.*
 
-* Stock analysis, price prediction and virtual trading
-* User authentication and account management
-* Virtual portfolio management with buy/sell functionality
-* Transaction history and portfolio performance tracking
-* Yahoo Finance (`yfinance`) integration for market data
-* Machine-learning-based stock price prediction and visualization
+* Built a web application for **stock analysis, price prediction, and virtual trading**.
+* Implemented **user authentication and account management**.
+* Developed virtual **portfolio management** with buy/sell functionality.
+* Implemented **transaction history and portfolio performance tracking**.
+* Integrated **Yahoo Finance (`yfinance`)** for retrieving stock market data.
+* Added machine-learning-based **stock price prediction and forecast visualization**.
 
 **Tech Stack:**
 `Python` `Flask` `SQLAlchemy` `SQLite` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
@@ -94,13 +94,13 @@
 
 *A deep learning-based image classification system for identifying house plant species.*
 
-* Image preprocessing and dataset preparation
-* Training, validation and test dataset splitting
-* Data augmentation
-* Transfer learning using a pretrained CNN
-* Model fine-tuning and evaluation
-* Prediction on unseen plant images
-* Training-history and evaluation visualization
+* Performed **image preprocessing and dataset preparation**.
+* Created **Training, Validation, and Test** dataset splits.
+* Applied **data augmentation** to improve the training pipeline.
+* Used **Transfer Learning with a pretrained CNN**.
+* Performed model **fine-tuning and evaluation**.
+* Implemented prediction on **unseen plant images**.
+* Visualized training history and model evaluation results.
 
 **Tech Stack:**
 `Python` `TensorFlow` `Keras` `Scikit-learn` `Jupyter`
@@ -113,12 +113,12 @@
 
 *An AI-powered healthcare predictive analytics platform for patient risk prediction and interactive healthcare analytics.*
 
-* Interactive healthcare analytics dashboard using Streamlit
-* Machine-learning-based patient risk prediction
-* SHAP-based model interpretability and feature importance analysis
-* Healthcare dataset preprocessing and feature engineering
-* Interactive visualizations using Plotly and Matplotlib
-* Patient-specific clinical insights based on model predictions
+* Built an interactive **healthcare analytics dashboard** using Streamlit.
+* Implemented **machine-learning-based patient risk prediction**.
+* Integrated **SHAP Explainable AI** for model interpretability and feature importance analysis.
+* Performed healthcare dataset **preprocessing and feature engineering**.
+* Added interactive visualizations using **Plotly and Matplotlib**.
+* Developed **patient-specific clinical insights** based on model predictions.
 
 **Tech Stack:**
 `Python` `Streamlit` `Scikit-learn` `SHAP` `Pandas` `NumPy` `Plotly` `Matplotlib`
@@ -131,9 +131,9 @@
 
 *A machine-learning-based fraud detection model developed using Python and Scikit-learn.*
 
-* Feature preprocessing
-* Handling of class imbalance
-* Model evaluation using Precision, Recall, F1-score and ROC-AUC
+* Performed **feature preprocessing**.
+* Handled **class imbalance** using suitable preprocessing techniques.
+* Evaluated model performance using **Precision, Recall, F1-score, and ROC-AUC**.
 
 **Tech Stack:**
 `Python` `Scikit-learn`
@@ -144,12 +144,12 @@
 
 ### 🎮 **GameVerse**
 
-*A browser-based gaming platform built using HTML, CSS and JavaScript.*
+*A browser-based gaming platform built using HTML, CSS, and JavaScript.*
 
-* Responsive user interface design
-* Interactive gameplay components
-* Client-side event handling
-* Dynamic score tracking
+* Designed **responsive user interfaces**.
+* Implemented **interactive gameplay components**.
+* Used **client-side event handling**.
+* Implemented **dynamic score tracking**.
 
 **Tech Stack:**
 `HTML` `CSS` `JavaScript`
@@ -184,19 +184,18 @@
 
 # 📜 Certifications
 
-📜 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
-📜 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+📜 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**<br>
+📜 **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**<br>
 📜 **Cloud Administration & Engineering Certification – Microsoft Elevate (AICTE)**
 
 ---
 
 # 🏆 Leadership & Achievements
 
-🏅 **Student Coordinator** — Mharo Rajasthan Club (MRC), VIT Chennai
+🏅 **Student Coordinator** — Mharo Rajasthan Club (MRC), VIT Chennai<br>
 🥉 **Bronze Medalist** — Dodgeball Championship, Vibrance 2025
 
 ---
-
 
 # 🌐 Connect With Me
 
