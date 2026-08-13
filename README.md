@@ -1,22 +1,24 @@
 # 👋 Hi, I'm Harshit Sharma
 
-### Backend-Focused Software Developer | B.Tech CSE @ VIT Chennai
+### 💻 Backend-Focused Software Developer | CSE @ VIT Chennai
 
-I'm a final-year **Computer Science and Engineering** student at **Vellore Institute of Technology, Chennai**, with a strong focus on **Backend Engineering and Software Development**.
+I'm a final-year **Computer Science and Engineering** student focused on **Backend Engineering and Software Development**, with hands-on experience building web applications using **Python, Flask, REST APIs, SQLAlchemy, and MySQL**.
 
-I enjoy building web applications, REST APIs, and database-driven applications while continuously strengthening my **Data Structures, Algorithms, and core Computer Science fundamentals**.
+I'm continuously strengthening my **Data Structures, Algorithms, and Core Computer Science fundamentals** while building practical software projects.
 
 ---
 
 ## 👨‍💻 About Me
 
-* 🎓 B.Tech in Computer Science and Engineering at **VIT Chennai**
-* 📊 CGPA: **9.08 / 10**
+* 🎓 Final-year **B.Tech Computer Science & Engineering** student at **Vellore Institute of Technology, Chennai**
+* 📊 **CGPA: 9.08 / 10**
 * 💻 Focused on **Backend Engineering and Software Development**
-* 🔧 Experienced with **Python, Flask, REST APIs, SQLAlchemy, and MySQL**
-* 🧠 Strengthening **Data Structures, Algorithms, and Core CS Fundamentals**
-* ☁️ Completed a **Microsoft Azure Virtual Internship**
-* 📍 Chennai, India
+* 🔧 Experienced in building **web applications, REST APIs, and database-driven applications**
+* 🧠 Continuously strengthening **Data Structures, Algorithms, and Core Computer Science fundamentals**
+* ☁️ Completed a **Microsoft Azure Virtual Internship** covering cloud fundamentals and deployment concepts
+* 🚀 Built projects involving **backend development, machine learning, web applications, and database systems**
+* 📍 **Chennai, India**
+
 
 ---
 
@@ -62,39 +64,82 @@ I enjoy building web applications, REST APIs, and database-driven applications w
 
 ---
 
-## 🚀 Projects
+
+## 🚀 Featured Projects
 
 ### 📈 StockVision
 
 A full-stack stock market analysis application built using **Flask, SQLAlchemy, and MySQL**.
 
-**Key Features:**
+**Key Highlights:**
 
-* Designed RESTful routes for portfolio management.
-* Implemented transaction history and watchlist management.
-* Implemented CRUD operations using SQLAlchemy ORM.
+* Designed RESTful routes for **portfolio management, transaction history, and watchlist management**.
+* Implemented **CRUD operations** using SQLAlchemy ORM.
 * Integrated the **Alpha Vantage API** to retrieve and display real-time stock market data.
 * Containerized the application using **Docker** for consistent local deployment.
 
 **Tech Stack:**
-`Python` `Flask` `SQLAlchemy` `MySQL` `REST APIs` `Docker` `Alpha Vantage API`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square\&logo=sqlalchemy\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+🔗 [View Repository](https://github.com/harshit-s11/StockVision)
+
+---
+
+### 🌿 Plant Species Classification using Transfer Learning
+
+A deep learning-based image classification system that identifies house plant species using **Transfer Learning with TensorFlow and Keras**.
+
+**Key Highlights:**
+
+* Performed image preprocessing and dataset preparation.
+* Created **Training, Validation, and Test** dataset splits.
+* Applied **data augmentation** to improve the training pipeline.
+* Used **Transfer Learning with a pretrained CNN**.
+* Performed model fine-tuning and evaluation.
+* Implemented prediction on unseen plant images.
+* Visualized training history and model evaluation results.
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square\&logo=keras\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square\&logo=jupyter\&logoColor=white)
+
+🔗 [View Repository](https://github.com/harshit-s11/Plant-Species-Classification-Transfer-Learning)
+
+
 
 ---
 
 ### 🏥 Healthcare Predictive Analytics
 
-A healthcare prediction application developed using **Python and machine learning workflows**.
+An AI-powered healthcare predictive analytics platform built with **Python, Streamlit, Machine Learning, and SHAP Explainable AI** for transparent patient risk prediction and interactive healthcare analytics.
 
-**Key Features:**
+**Key Highlights:**
 
-* Performed data preprocessing.
-* Applied feature selection techniques.
-* Evaluated models on healthcare datasets.
-* Developed an interactive interface for disease prediction.
-* Added visualization of prediction results.
+* Built an interactive **healthcare analytics dashboard** using Streamlit.
+* Implemented **machine-learning-based patient risk prediction**.
+* Integrated **SHAP Explainable AI** for model interpretability and feature importance analysis.
+* Performed automatic healthcare dataset preprocessing and feature engineering.
+* Added interactive visualizations using **Plotly and Matplotlib**.
+* Developed patient-specific clinical insights based on model predictions.
 
 **Tech Stack:**
-`Python` `Machine Learning`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable%20AI-6C63FF?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+
+🔗 [View Repository](https://github.com/harshit-s11/Explainable-AI-Healthcare-Project)
+
+
 
 ---
 
@@ -102,27 +147,25 @@ A healthcare prediction application developed using **Python and machine learnin
 
 A fraud detection model developed using **Python and Scikit-learn**.
 
-**Key Features:**
+**Key Highlights:**
 
 * Performed feature preprocessing.
-* Handled class imbalance using suitable preprocessing techniques.
-* Evaluated model performance using:
-
-  * Precision
-  * Recall
-  * F1-score
-  * ROC-AUC
+* Handled **class imbalance** using suitable preprocessing techniques.
+* Evaluated model performance using **Precision, Recall, F1-score, and ROC-AUC**.
 
 **Tech Stack:**
-`Python` `Scikit-learn` `Machine Learning`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+
+🔗 [View Repository](https://github.com/harshit-s11/CNS-Fraud-Detection)
 
 ---
 
 ### 🎮 GameVerse
 
-A browser-based gaming platform developed using **HTML, CSS, and JavaScript**.
+A browser-based gaming platform built using **HTML, CSS, and JavaScript**.
 
-**Key Features:**
+**Key Highlights:**
 
 * Designed responsive user interfaces.
 * Implemented interactive gameplay components.
@@ -130,7 +173,12 @@ A browser-based gaming platform developed using **HTML, CSS, and JavaScript**.
 * Implemented dynamic score tracking.
 
 **Tech Stack:**
-`HTML` `CSS` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+
+🔗 [View Repository](https://github.com/harshit-s11/GameVerse)
+
 
 ---
 
@@ -171,25 +219,13 @@ A browser-based gaming platform developed using **HTML, CSS, and JavaScript**.
 * **Student Coordinator** — Mharo Rajasthan Club (MRC), VIT Chennai
 * **Bronze Medalist** — Dodgeball Championship, Vibrance 2025
 
----
-
-## 📌 Areas of Focus
-
-* Backend Engineering
-* REST API Development
-* Database-Driven Applications
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* Core Computer Science Fundamentals
-* Web Application Development
 
 ---
 
 ## 🤝 Connect With Me
 
-**GitHub:** `harshit-s11`
-
-**LinkedIn:** `harshit-sharma`
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harshit-s11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshit-sharma)
 
 ---
 
