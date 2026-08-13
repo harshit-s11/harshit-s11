@@ -85,6 +85,8 @@ Machine-learning based healthcare prediction application.
 * Evaluated machine-learning models on healthcare datasets.
 * Developed an interactive interface for disease prediction and visualization.
 
+🔗 [View Repository](https://github.com/harshit-s11/Explainable-AI-Healthcare-Project.git)
+
 ---
 
 ### 💳 Credit Card Fraud Detection
