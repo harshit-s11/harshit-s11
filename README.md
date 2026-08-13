@@ -8,13 +8,13 @@
 
 # 👨‍💻 About Me
 
-🎓 Final-year **B.Tech Computer Science & Engineering** student @ **VIT Chennai**
-💻 Focused on **Backend Engineering and Software Development**
-🔧 Experienced in building **web applications, REST APIs, and database-driven applications**
-🧠 Continuously strengthening **Data Structures, Algorithms, and Core Computer Science fundamentals**
-☁️ Completed a **Microsoft Azure Virtual Internship** covering cloud fundamentals and deployment concepts
-🚀 Built projects involving **backend development, machine learning, web applications, and database systems**
-📊 **CGPA: 9.08 / 10**
+🎓 Final-year **B.Tech Computer Science & Engineering** student @ **VIT Chennai**<br>
+📊 **CGPA: 9.08 / 10**<br>
+💻 Focused on **Backend Engineering and Software Development**<br>
+🔧 Experienced in building **web applications, REST APIs, and database-driven applications**<br>
+🧠 Continuously strengthening **Data Structures, Algorithms, and Core Computer Science fundamentals**<br>
+☁️ Completed a **Microsoft Azure Virtual Internship** covering cloud fundamentals and deployment concepts<br>
+🚀 Built projects involving **backend development, machine learning, web applications, and database systems**<br>
 📍 **Chennai, India**
 
 ---
@@ -200,12 +200,8 @@
 # 📈 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit-s11&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-s11&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit-s11&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harshit-s11&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-s11&layout=compact&theme=tokyonight" />
 </p>
 
 ---
