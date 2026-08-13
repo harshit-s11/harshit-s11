@@ -1,119 +1,126 @@
 # 👋 Hi, I'm Harshit Sharma
 
-### 💻 Backend-Focused Software Developer | CSE @ VIT Chennai
+### Backend-Focused Software Developer | B.Tech CSE @ VIT Chennai
 
-I'm a final-year Computer Science and Engineering student at **Vellore Institute of Technology, Chennai**, focused on **Backend Engineering and Software Development**.
+I'm a final-year **Computer Science and Engineering** student at **Vellore Institute of Technology, Chennai**, with a strong focus on **Backend Engineering and Software Development**.
 
-I enjoy building web applications, REST APIs, database-driven systems, and machine-learning applications while continuously strengthening my **Data Structures & Algorithms and core Computer Science fundamentals**.
+I enjoy building web applications, REST APIs, and database-driven applications while continuously strengthening my **Data Structures, Algorithms, and core Computer Science fundamentals**.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 🎓 B.Tech Computer Science & Engineering @ **VIT Chennai**
+* 🎓 B.Tech in Computer Science and Engineering at **VIT Chennai**
 * 📊 CGPA: **9.08 / 10**
-* 💻 Focused on **Backend Engineering & Software Development**
-* 🔧 Experienced with **Python, Flask, REST APIs, SQLAlchemy & MySQL**
-* 🧠 Strengthening **Data Structures, Algorithms & Core CS Fundamentals**
-* ☁️ Completed **Microsoft Azure Virtual Internship**
-* 🐳 Interested in building **scalable and maintainable backend applications**
+* 💻 Focused on **Backend Engineering and Software Development**
+* 🔧 Experienced with **Python, Flask, REST APIs, SQLAlchemy, and MySQL**
+* 🧠 Strengthening **Data Structures, Algorithms, and Core CS Fundamentals**
+* ☁️ Completed a **Microsoft Azure Virtual Internship**
 * 📍 Chennai, India
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+`Java` `Python` `C++` `SQL` `JavaScript`
 
 ### Backend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge\&logo=sqlalchemy\&logoColor=white)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge\&logo=jinja\&logoColor=white)
+`Flask` `REST APIs` `SQLAlchemy` `Jinja2`
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+`HTML` `CSS` `JavaScript`
 
-### Database & Tools
+### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+`MySQL`
+
+### Tools
+
+`Git` `GitHub` `Docker` `VS Code` `Postman`
 
 ### Core Concepts
 
-`Data Structures & Algorithms` · `OOP` · `Operating Systems` · `Computer Networks` · `Database Design`
+`Data Structures & Algorithms`
+`Object-Oriented Programming`
+`Operating Systems`
+`Computer Networks`
+`Database Design`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 📈 StockVision
 
-Full-stack stock market analysis and portfolio management application.
+A full-stack stock market analysis application built using **Flask, SQLAlchemy, and MySQL**.
 
-**Tech:** Flask · SQLAlchemy · MySQL · REST APIs · Docker · Alpha Vantage API
+**Key Features:**
 
-* Built RESTful routes for portfolio management, transaction history and watchlists.
+* Designed RESTful routes for portfolio management.
+* Implemented transaction history and watchlist management.
 * Implemented CRUD operations using SQLAlchemy ORM.
-* Integrated Alpha Vantage API for stock market data.
-* Containerized the application using Docker.
+* Integrated the **Alpha Vantage API** to retrieve and display real-time stock market data.
+* Containerized the application using **Docker** for consistent local deployment.
 
-🔗 [View Repository](https://github.com/harshit-s11/StockVision)
+**Tech Stack:**
+`Python` `Flask` `SQLAlchemy` `MySQL` `REST APIs` `Docker` `Alpha Vantage API`
 
 ---
 
 ### 🏥 Healthcare Predictive Analytics
 
-Machine-learning based healthcare prediction application.
+A healthcare prediction application developed using **Python and machine learning workflows**.
 
-**Tech:** Python · Machine Learning · Data Preprocessing
+**Key Features:**
 
-* Performed data preprocessing and feature selection.
-* Evaluated machine-learning models on healthcare datasets.
-* Developed an interactive interface for disease prediction and visualization.
+* Performed data preprocessing.
+* Applied feature selection techniques.
+* Evaluated models on healthcare datasets.
+* Developed an interactive interface for disease prediction.
+* Added visualization of prediction results.
 
-🔗 [View Repository](https://github.com/harshit-s11/Explainable-AI-Healthcare-Project.git)
+**Tech Stack:**
+`Python` `Machine Learning`
 
 ---
 
 ### 💳 Credit Card Fraud Detection
 
-Machine-learning based fraud detection system.
+A fraud detection model developed using **Python and Scikit-learn**.
 
-**Tech:** Python · Scikit-learn · Machine Learning
+**Key Features:**
 
-* Performed feature preprocessing and handled class imbalance.
-* Evaluated models using **Precision, Recall, F1-score and ROC-AUC**.
-* Focused on building an effective classification workflow for fraud detection.
+* Performed feature preprocessing.
+* Handled class imbalance using suitable preprocessing techniques.
+* Evaluated model performance using:
 
-🔗 [View Repository](https://github.com/harshit-s11/CNS-Fraud-Detection)
+  * Precision
+  * Recall
+  * F1-score
+  * ROC-AUC
+
+**Tech Stack:**
+`Python` `Scikit-learn` `Machine Learning`
 
 ---
 
 ### 🎮 GameVerse
 
-Browser-based gaming platform with interactive gameplay.
+A browser-based gaming platform developed using **HTML, CSS, and JavaScript**.
 
-**Tech:** HTML · CSS · JavaScript
+**Key Features:**
 
-* Built responsive user interfaces.
+* Designed responsive user interfaces.
 * Implemented interactive gameplay components.
-* Added client-side event handling and dynamic score tracking.
+* Used client-side event handling.
+* Implemented dynamic score tracking.
 
-🔗 [View Repository](https://github.com/harshit-s11/GameVerse)
+**Tech Stack:**
+`HTML` `CSS` `JavaScript`
 
 ---
 
@@ -121,11 +128,12 @@ Browser-based gaming platform with interactive gameplay.
 
 ### Microsoft Azure Virtual Internship
 
-**Microsoft Elevate — AICTE** | Jan 2026 – Feb 2026
+**Microsoft Elevate – AICTE**
+**January 2026 – February 2026**
 
-* Completed practical training covering Microsoft Azure cloud fundamentals.
-* Worked with cloud services, virtual machines and storage concepts.
-* Developed foundational knowledge of cloud infrastructure and deployment workflows.
+* Completed practical training covering Microsoft Azure cloud fundamentals and deployment concepts.
+* Worked with cloud services, virtual machines, and storage concepts through guided learning modules.
+* Built foundational understanding of cloud infrastructure and deployment workflows.
 
 ---
 
@@ -134,7 +142,7 @@ Browser-based gaming platform with interactive gameplay.
 ### Vellore Institute of Technology, Chennai
 
 **B.Tech — Computer Science and Engineering**
-2023 – 2027
+**2023 – 2027**
 
 **CGPA: 9.08 / 10**
 
@@ -142,41 +150,36 @@ Browser-based gaming platform with interactive gameplay.
 
 ## 📜 Certifications
 
-* Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
-* Oracle Cloud Infrastructure 2025 Certified Data Science Professional
-* Cloud Administration & Engineering Certification — Microsoft Elevate (AICTE)
+* **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional**
+* **Oracle Cloud Infrastructure 2025 Certified Data Science Professional**
+* **Cloud Administration & Engineering Certification – Microsoft Elevate (AICTE)**
 
 ---
 
 ## 🏆 Leadership & Achievements
 
-* 👨‍💼 Student Coordinator — **Mharo Rajasthan Club (MRC), VIT Chennai**
-* 🥉 Bronze Medalist — **Dodgeball Championship, Vibrance 2025**
+* **Student Coordinator** — Mharo Rajasthan Club (MRC), VIT Chennai
+* **Bronze Medalist** — Dodgeball Championship, Vibrance 2025
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Areas of Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit-s11&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit-s11&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+* Backend Engineering
+* REST API Development
+* Database-Driven Applications
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* Core Computer Science Fundamentals
+* Web Application Development
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
+**GitHub:** `harshit-s11`
 
-<a href="https://linkedin.com/in/harshit-sharma">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/harshit-s11">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
+**LinkedIn:** `harshit-sharma`
 
 ---
 
