@@ -9,7 +9,6 @@
 # 👨‍💻 About Me
 
 🎓 Final-year **B.Tech Computer Science & Engineering** student @ **VIT Chennai**
-
 💻 Focused on **Backend Engineering and Software Development**
 🔧 Experienced in building **web applications, REST APIs, and database-driven applications**
 🧠 Continuously strengthening **Data Structures, Algorithms, and Core Computer Science fundamentals**
