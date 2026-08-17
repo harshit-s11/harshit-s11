@@ -78,7 +78,7 @@
 
 * Built a full-stack project management platform using **Java 21, Spring Boot, React, TypeScript, and PostgreSQL**.
 * Implemented **JWT authentication, role-based access control, and project-scoped authorization** using Spring Security and BCrypt.
-* Integrated **Google Gemini** for AI-assisted task breakdown, sprint risk forecasting, and automated standup summaries.
+* Integrated **Google Gemini** for AI-assisted task breakdown, sprint velocity and risk forecasting, and automated standup summaries.
 * Implemented **144 backend and 15 frontend automated tests** with Docker Compose and GitHub Actions CI/CD.
 * Configured container publishing through **GitHub Container Registry (GHCR)**.
 
