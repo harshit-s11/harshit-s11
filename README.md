@@ -70,7 +70,24 @@
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
+
+### 🤖 **TeamFlow AI**
+
+*A full-stack AI-assisted Agile project management platform for managing teams, projects, sprints, and tasks.*
+
+* Built a full-stack project management platform using **Java 21, Spring Boot, React, TypeScript, and PostgreSQL**.
+* Implemented **JWT authentication, role-based access control, and project-scoped authorization** using Spring Security and BCrypt.
+* Integrated **Google Gemini** for AI-assisted task breakdown, sprint risk forecasting, and automated standup summaries.
+* Implemented **144 backend and 15 frontend automated tests** with Docker Compose and GitHub Actions CI/CD.
+* Configured container publishing through **GitHub Container Registry (GHCR)**.
+
+**Tech Stack:**
+`Java 21` `Spring Boot` `React` `TypeScript` `PostgreSQL` `Spring Security` `Google Gemini` `Docker` `GitHub Actions`
+
+🔗 [View Repository](https://github.com/harshit-s11/TeamFlow-AI)
+
+---
 
 ### 📈 **StockVision**
 
@@ -87,25 +104,6 @@
 `Python` `Flask` `SQLAlchemy` `SQLite` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
 
 🔗 [View Repository](https://github.com/harshit-s11/StockVision)
-
----
-
-### 🌿 **Plant Species Classification using Transfer Learning**
-
-*A deep learning-based image classification system for identifying house plant species.*
-
-* Performed **image preprocessing and dataset preparation**.
-* Created **Training, Validation, and Test** dataset splits.
-* Applied **data augmentation** to improve the training pipeline.
-* Used **Transfer Learning with a pretrained CNN**.
-* Performed model **fine-tuning and evaluation**.
-* Implemented prediction on **unseen plant images**.
-* Visualized training history and model evaluation results.
-
-**Tech Stack:**
-`Python` `TensorFlow` `Keras` `Scikit-learn` `Jupyter`
-
-🔗 [View Repository](https://github.com/harshit-s11/Plant-Species-Classification-Transfer-Learning)
 
 ---
 
@@ -127,36 +125,23 @@
 
 ---
 
-### 💳 **Credit Card Fraud Detection**
+### 🌱 **Quantum Plant Health Classifier**
 
-*A machine-learning-based fraud detection model developed using Python and Scikit-learn.*
+*A Flask-based plant disease classification application using Quantum Machine Learning.*
 
-* Performed **feature preprocessing**.
-* Handled **class imbalance** using suitable preprocessing techniques.
-* Evaluated model performance using **Precision, Recall, F1-score, and ROC-AUC**.
+* Built a web application for **healthy and diseased plant leaf classification** using Flask and Qiskit.
+* Applied **image preprocessing and PCA dimensionality reduction** before quantum feature encoding.
+* Implemented a **4-qubit Variational Quantum Classifier (VQC)** using Qiskit.
+* Used **ZZFeatureMap, RealAmplitudes, and COBYLA** for quantum classification.
+* Integrated a pretrained VQC model into the Flask application for **image-based prediction and confidence scoring**.
 
 **Tech Stack:**
-`Python` `Scikit-learn`
+`Python` `Flask` `Qiskit` `Qiskit Machine Learning` `Scikit-learn` `NumPy` `Pillow`
 
-🔗 [View Repository](https://github.com/harshit-s11/CNS-Fraud-Detection)
+🔗 [View Repository](https://github.com/harshit-s11/AIproject)
 
 ---
 
-### 🎮 **GameVerse**
-
-*A browser-based gaming platform built using HTML, CSS, and JavaScript.*
-
-* Designed **responsive user interfaces**.
-* Implemented **interactive gameplay components**.
-* Used **client-side event handling**.
-* Implemented **dynamic score tracking**.
-
-**Tech Stack:**
-`HTML` `CSS` `JavaScript`
-
-🔗 [View Repository](https://github.com/harshit-s11/GameVerse)
-
----
 
 # 💼 Experience
 
