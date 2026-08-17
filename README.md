@@ -200,7 +200,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-sharma">
+  <a href="https://www.linkedin.com/in/harshit-sharma24">
     <img src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" height="48" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/harshit-s11">
